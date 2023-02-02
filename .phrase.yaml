@@ -1,1 +1,20 @@
-
+phrase:
+  access_token: 9e148e7b677499b6791862abf9164417247bb0c677ee0baffa8f892ae85717da
+  project_id: dd2b28ad50b6982be2f1eec90676d926
+  file format: yml
+  
+  
+  push:
+    sources:
+      file: ./locale/sample.yml
+      params:
+        file_format: yml
+        locale_id: 15403ce4d0b29d8e8d7750c9a2d0167e
+        update_translations: true
+        
+        
+  pull:
+    targets:
+      file: ./locale/sample-EN.yml
+      param:
+        locale_id: f46fd91a92c42e2a317510552821cc12
