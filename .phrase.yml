@@ -6,7 +6,7 @@ phrase:
   
   push:
     sources:
-      file: ./locale/sample.yml
+    - file: ./locale/sample.yml
       params:
         file_format: yml
         locale_id: 15403ce4d0b29d8e8d7750c9a2d0167e
@@ -15,6 +15,6 @@ phrase:
         
   pull:
     targets:
-      file: ./locale/sample-EN.yml
+    - file: ./locale/sample-EN.yml
       param:
         locale_id: f46fd91a92c42e2a317510552821cc12
