@@ -1,35 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@giorgiovass
-giorgiovass /
-Strings-test
-Public
-
-Cannot fork because you own this repository and are not a member of any organizations.
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-Strings-test/strings.yml
-@giorgiovass
-giorgiovass Rename strings.yaml to strings.yml
-Latest commit b2c4d2f Jan 23, 2023
-History
-1 contributor
-387 lines (387 sloc) 10.2 KB
 es:
   attributes:
     id: ID
@@ -417,20 +385,3 @@ es:
         assign_system_items: Asignar Items de Sistema
         delete_public_sector_system_items: Eliminar Items de Sistema
         reprocessing_vacations: Reprocesar Vacaciones
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-Strings-test/strings.yml at main · giorgiovass/Strings-test
