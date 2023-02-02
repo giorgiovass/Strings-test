@@ -16,5 +16,5 @@ phrase:
   pull:
     targets:
     - file: ./locale/sample-EN.yml
-      param:
+      params:
         locale_id: f46fd91a92c42e2a317510552821cc12
