@@ -9,7 +9,7 @@ phrase:
     - file: ./locale/sample.yml
       params:
         file_format: yml
-        locale_id: 15403ce4d0b29d8e8d7750c9a2d0167e
+        locale_id: 7ec2f9b134c3929df38287ff66a0071b
         update_translations: true
         
         
@@ -18,4 +18,4 @@ phrase:
     - file: ./locale/sample-EN.yml
       params:
         file_format: yml
-        locale_id: f46fd91a92c42e2a317510552821cc12
+        locale_id: 6ae8eab1e3f719e19e64eee119cf511b
