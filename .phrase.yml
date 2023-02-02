@@ -17,4 +17,5 @@ phrase:
     targets:
     - file: ./locale/sample-EN.yml
       params:
+        file_format: yml
         locale_id: f46fd91a92c42e2a317510552821cc12
