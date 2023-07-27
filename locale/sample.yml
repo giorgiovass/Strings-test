@@ -1,8 +1,8 @@
 es:
   attributes:
     id: ID
-    created_at: Fechas de Creación
-    type: Tipo de
+    created_at: Fechas de Creación DE FECHA
+    type: Tipo de cosa AQUI
     start_date: Fecha de Inicio
     end_date: Fecha de Término
     active: Activo
