@@ -19,3 +19,27 @@ phrase:
       params:
         file_format: yml
         locale_id: 6ae8eab1e3f719e19e64eee119cf511b
+
+
+
+phrase:
+  access_token: adb8529ba9bbcc8e060f842b9f231513506514fe8654d50446c7409d33665a4f
+  project_id: 1ea679cb9124a1925498f7c20549bd65
+  file format: json
+  
+  
+  push:
+    sources:
+    - file: ./locale/bahoo.json
+      params:
+        file_format: yml
+        locale_id: 984dd15374130c55faf6a5221eb6e3b9
+        update_translations: true
+        
+        
+  pull:
+    targets:
+    - file: ./locale/sample-ES.yml
+      params:
+        file_format: yml
+        locale_id: 5030ee2e310e344eed569c7aafeb75c5
