@@ -1,8 +1,8 @@
 es:
   attributes:
     id: ID
-    created_at: Fechas de Creación nuevas
-    type: Tipo
+    created_at: Fechas de Creación
+    type: Tipo de
     start_date: Fecha de Inicio
     end_date: Fecha de Término
     active: Activo
@@ -33,7 +33,7 @@ es:
       talent/indicator:
         description: Descripción
         capacity: Competencia
-        name: Nombre Indicador
+        name: Nombre de Indicador
         level: Nivel
       talent/scale:
         name: Nombre
