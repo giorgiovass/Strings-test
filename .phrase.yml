@@ -1,30 +1,6 @@
 phrase:
-  access_token: 9e148e7b677499b6791862abf9164417247bb0c677ee0baffa8f892ae85717da
-  project_id: dd2b28ad50b6982be2f1eec90676d926
-  file format: yml
-  
-  
-  push:
-    sources:
-    - file: ./locale/sample.yml
-      params:
-        file_format: yml
-        locale_id: 7ec2f9b134c3929df38287ff66a0071b
-        update_translations: true
-        
-        
-  pull:
-    targets:
-    - file: ./locale/sample-EN.yml
-      params:
-        file_format: yml
-        locale_id: 6ae8eab1e3f719e19e64eee119cf511b
-
-
-
-phrase:
-  access_token: adb8529ba9bbcc8e060f842b9f231513506514fe8654d50446c7409d33665a4f
-  project_id: 1ea679cb9124a1925498f7c20549bd65
+  access_token: 6793ef4095e83447bdf7942e0d4eba5738cb28b610b8676543df7ee21156c929
+  project_id: 81d7d5da1956690a1a361cffdef29707
   file format: json
   
   
@@ -32,14 +8,14 @@ phrase:
     sources:
     - file: ./locale/bahoo.json
       params:
-        file_format: yml
-        locale_id: 984dd15374130c55faf6a5221eb6e3b9
+        file_format: json
+        locale_id: 578ad30b0dfbd87aa64b5d473b601093
         update_translations: true
         
         
   pull:
     targets:
-    - file: ./locale/sample-ES.yml
+    - file: ./locale/bahoo-ES.json
       params:
-        file_format: yml
-        locale_id: 5030ee2e310e344eed569c7aafeb75c5
+        file_format: json
+        locale_id: 43d0c8b027909768fd010601e06d2b11
