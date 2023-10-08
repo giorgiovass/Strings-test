@@ -1,0 +1,38 @@
+{
+  "acp_test_12": {
+    "message": ". Hay algunas cosas interesantes aquí que están sucediendo en este momento."
+  },
+  "apc_test_13": {
+    "message": "¿Qué crees que pasa aquí?: {estado}"
+  },
+  "apc_test_14": {
+    "message": "Hola a todos..."
+  },
+  "apc_test_15": {
+    "message": "¡Esta es mi aplicación!"
+  },
+  "apc_test_16": {
+    "message": "MyBrand"
+  },
+  "apc_test_17": {
+    "message": "¡Hoy es un gran día para todos nosotros!"
+  },
+  "apc_test_18": {
+    "message": "Este es un texto más. Por favor, tradúzcalo también."
+  },
+  "apc_test_19": {
+    "message": "¡Hoy es un buen día!"
+  },
+  "gitlab_key_1": {
+    "message": "¡Esto es de GitHub!"
+  },
+  "my_key_1": {
+    "message": "Este es un archivo de traducción."
+  },
+  "my_key_4": {
+    "message": "Este es otro archivo de traducción."
+  },
+  "my_key_5": {
+    "message": "Esta es otra traducción."
+  }
+}
