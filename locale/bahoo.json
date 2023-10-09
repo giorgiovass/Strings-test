@@ -1,38 +1,22 @@
 {
-  "acp_test_12": {
-    "message": ". There's some cool stuff here happening right now."
-  },
-  "apc_test_13": {
-    "message": "What do you think happens here: {state}"
-  },
-  "apc_test_14": {
-    "message": "Hi ya'll..."
-  },
-  "apc_test_15": {
-    "message": "This is my App!"
-  },
-  "apc_test_16": {
-    "message": "MyBrand"
-  },
-  "apc_test_17": {
-    "message": "Today is a great day for all of us!"
-  },
-  "apc_test_18": {
-    "message": "This is some more text. Please also translate it."
-  },
-  "apc_test_19": {
-    "message": "Today is such a good day!"
-  },
-  "gitlab_key_1": {
-    "message": "This is from GitHub!"
-  },
-  "my_key_1": {
-    "message": "This is a translation file."
-  },
-  "my_key_4": {
-    "message": "This is another translation file."
-  },
-  "my_key_5": {
-    "message": "This is yet another translation."
-  }
+    "glossary": {
+        "title": "example glossary",
+		"GlossDiv": {
+            "title": "S",
+			"GlossList": {
+                "GlossEntry": {
+                    "ID": "SGML",
+					"SortAs": "SGML",
+					"GlossTerm": "Standard Generalized Markup Language",
+					"Acronym": "SGML",
+					"Abbrev": "ISO 8879:1986",
+					"GlossDef": {
+                        "para": "A meta-markup language, used to create markup languages such as DocBook.",
+						"GlossSeeAlso": ["GML", "XML"]
+                    },
+					"GlossSee": "markup"
+                }
+            }
+        }
+    }
 }
