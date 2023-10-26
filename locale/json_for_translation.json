@@ -34,11 +34,5 @@
   },
   "my_key_3": {
     "message": "This is yet another translation."
-  },
-  "my_key_4": {
-    "message": "This is ONE LAST KEY for translation."
-  },
-  "my_key_5": {
-    "message": "This is a BILLIONTH key here."
   }
 }
