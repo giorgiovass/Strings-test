@@ -31,11 +31,5 @@
   },
   "my_key_2": {
     "message": "This is another translation."
-  },
-  "my_key_3": {
-    "message": "This is yet another translation."
-  },
-  "my_key_4": {
-    "message": "This is the FINAL KEY for translation."
   }
 }
