@@ -1,0 +1,41 @@
+{
+  "acp_test_7": {
+    "message": "Las lenguas europeas pertenecen a la misma familia. Su existencia separada es un mito; para la ciencia, la música, el deporte, etc., Europa utiliza mismo vocabulario. Las lenguas solo difieren en su gramática, su pronunciación y sus palabras más comunes."
+  },
+  "apc_test_1": {
+    "message": "Probando la creación automatizada de proyectos... estado: {state}"
+  },
+  "apc_test_2": {
+    "message": "Probando la creación automatizada de proyectos... estado: "
+  },
+  "apc_test_3": {
+    "message": "Hola, mundo"
+  },
+  "apc_test_4": {
+    "message": "MyBrand IS SUPER COOL"
+  },
+  "apc_test_5": {
+    "message": "¡Hoy es un gran día para la traducción automática!"
+  },
+  "apc_test_6": {
+    "message": "Este es un poco más de texto. Traduzca esto, por favor."
+  },
+  "apc_test_8": {
+    "message": "¡Hoy es un gran día!"
+  },
+  "gitlab_key": {
+    "message": "¡Esto es de Gitlab!"
+  },
+  "my_key": {
+    "message": "Esta es una traducción."
+  },
+  "my_key_2": {
+    "message": "Esta es otra traducción."
+  },
+  "my_key_3": {
+    "message": "Esta es otra traducción."
+  },
+  "my_key_4": {
+    "message": "Esta es la llave final."
+  }
+}
