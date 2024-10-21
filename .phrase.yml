@@ -6,10 +6,17 @@ phrase:
   
   push:
     sources:
-    - file: ./src/libs/src/**/*.resx
+    - file: ./src/libs/src/folder1/<tag>.resx
       params:
         file_format: resx
         locale_id: dcf0d2dc5d07e34be35f8e6f57842b7c
+        tags: folder1
+        update_translations: true
+    - file: ./src/libs/src/folder2/<tag>.resx
+      params:
+        file_format: resx
+        locale_id: dcf0d2dc5d07e34be35f8e6f57842b7c
+        tags: folder2
         update_translations: true
         
         
