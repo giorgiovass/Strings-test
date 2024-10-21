@@ -1,21 +1,21 @@
 phrase:
   access_token: 6793ef4095e83447bdf7942e0d4eba5738cb28b610b8676543df7ee21156c929
   project_id: 0649a2e696d33f89aaf6653cfc721ca1
-  file format: json
+  file format: resx
   
   
   push:
     sources:
-    - file: ./locale/json_for_translation.json
+    - file: ./src/libs/src/**/*.resx
       params:
-        file_format: json
+        file_format: resx
         locale_id: 2941e985bf283525279ad756a09f95e1
         update_translations: true
         
         
   pull:
     targets:
-    - file: ./locale/json_for_translation_ES.json
+    - file: ./src/localization/*.resx
       params:
-        file_format: json
+        file_format: resx
         locale_id: d09dd256ffac4322f5e76a520cab41ee
