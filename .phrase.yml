@@ -9,13 +9,21 @@ phrase:
     - file: ./src/libs/src/**/*.resx
       params:
         file_format: resx
-        locale_id: 2941e985bf283525279ad756a09f95e1
+        locale_id: dcf0d2dc5d07e34be35f8e6f57842b7c
         update_translations: true
         
         
   pull:
     targets:
-    - file: ./src/localization/*.resx
+    - file: ./src/localization/*_<locale_code>.resx
       params:
         file_format: resx
-        locale_id: d09dd256ffac4322f5e76a520cab41ee
+        locale_id: 834f7a75b9461f07b7d98c50b24242b5
+    - file: ./src/localization/*_<locale_code>.resx
+      params:
+        file_format: resx
+        locale_id: 1dfca7b007eb7c230baee2f8a554195f
+    - file: ./src/localization/*_<locale_code>.resx
+      params:
+        file_format: resx
+        locale_id: 04de04bd73305ecf5d056a7bb17679ff
