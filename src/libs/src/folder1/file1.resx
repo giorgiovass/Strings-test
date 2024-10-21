@@ -51,9 +51,6 @@
   <data name="gitlab_key">
     <value>This is from Gitlab!</value>
   </data>
-  <data name="icu_plural">
-    <value>{nrOfChairs, plural, zero{There are no chairs.} one{There is one chair.} other{There are # chairs.}}</value>
-  </data>
   <data name="my_key">
     <value>This is a translation.</value>
   </data>
